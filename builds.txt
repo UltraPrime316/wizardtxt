@@ -2,7 +2,7 @@ id="plugin.program.Optimus"
 version="1.0"
 zip="http://"
 
-name="Example Build 1"
+name="Autobots Reloaded"
 version="1.0"
 url="url.to.build"
 minor="http://"
