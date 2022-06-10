@@ -16,7 +16,7 @@ adult="no"
 info="http://"
 description="Autobots Reloaded version for kodi 19"
 
-name="Example Build 2"
+name="Coming Soon"
 version="1.0"
 url="url.to.build"
 minor="http://"
