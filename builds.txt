@@ -13,7 +13,7 @@ info="http://"
 description="Autobots Reloaded version for kodi 19"
 
 name="Christmas 19"
-version="1.5"
+version="2.0"
 url="https://www.dropbox.com/s/ryv08twtgr89ucu/christmas19.zip?dl=1"
 minor="http://"
 gui="http://"
