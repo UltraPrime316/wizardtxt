@@ -12,6 +12,21 @@ adult="no"
 info="http://"
 description="Autobots Reloaded version for kodi 19"
 
+name="Rise Of The Beasts"
+version="1.0"
+url="https://www.dropbox.com/scl/fi/rsc3g7g2c008mufcmuj7b/riseofbeasts.zip?rlkey=0kyzgwaoej7v5ed8e8cfa076r&dl=1"
+minor="http://"
+gui="http://"
+kodi="20.2"
+theme="http://"
+icon="https://image.tmdb.org/t/p/original/nPQmjaNX9whrYZh8vx5Xo9ywynD.jpg
+fanart="https://image.tmdb.org/t/p/original/nPQmjaNX9whrYZh8vx5Xo9ywynD.jpg"
+preview="https://"
+adult="no"
+info="http://"
+description="Transformers Rise Of The Beasts Version"
+
+
 name="Christmas 19"
 version="2.1"
 url="https://www.dropbox.com/s/ryv08twtgr89ucu/christmas19.zip?dl=1"
