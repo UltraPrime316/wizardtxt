@@ -43,7 +43,7 @@ description="A Christmas build to lift your spirits."
 
 name="Alpha & Omega"
 version="1.0"
-url="https://www.dropbox.com/scl/fi/rsc3g7g2c008mufcmuj7b/riseofbeasts.zip?rlkey=0kyzgwaoej7v5ed8e8cfa076r&dl=1"
+url="https://www.dropbox.com/scl/fi/4qtxz9b4s435xdkduabxo/christianbuild.zip?rlkey=cpc0latz7mx5m8mpb948nsnyp&st=9w8935rs&dl=0"
 minor="http://"
 gui="http://"
 kodi="21.0"
