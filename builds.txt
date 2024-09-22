@@ -56,7 +56,7 @@ description="This Build is the first and last amen"
 
 name="Alpha and Omega testing"
 version="1.0"
-url="https://www.dropbox.com/scl/fi/txvjciublfoxuhkn9ca63/christianbuild.zip?rlkey=aos9dzxuskis13shd0sw0h07z&st=5sb4p9kj&dl=1"
+url="https://www.dropbox.com/scl/fi/2ge6nga5iqk7jaxxrnnea/christian-build-test.zip?rlkey=e2j89au6mrakkcrcp8nkhwjv1&st=5leovyno&dl=1"
 minor="http://"
 gui="http://"
 kodi="21"
