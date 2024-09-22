@@ -54,7 +54,7 @@ adult="no"
 info="http://"
 description="This Build is the first and last amen"
 
-name="Fall Backgrounds Alpha and Omega"
+name="Alpha and Omega testing"
 version="1.0"
 url="https://www.dropbox.com/scl/fi/txvjciublfoxuhkn9ca63/christianbuild.zip?rlkey=aos9dzxuskis13shd0sw0h07z&st=5sb4p9kj&dl=1"
 minor="http://"
