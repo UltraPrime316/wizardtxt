@@ -1,5 +1,5 @@
 name="Christmas 21"
-version="2.2"
+version="2.4"
 url="https://www.dropbox.com/scl/fi/959gav3yy0kldmk1tanlq/christmas21.zip?rlkey=g5z2484j7h7f5odazsqh2y829&st=8zh9p9ki&dl=1"
 minor="http://"
 gui="http://"
