@@ -1,6 +1,6 @@
 name="Christmas 21"
 version="2.4"
-url="https://www.dropbox.com/scl/fi/959gav3yy0kldmk1tanlq/christmas21.zip?rlkey=g5z2484j7h7f5odazsqh2y829&st=nec4tsy0&dl=1"
+url="https://www.dropbox.com/scl/fi/959gav3yy0kldmk1tanlq/christmas21.zip?rlkey=g5z2484j7h7f5odazsqh2y829&st=5e856fr4&dl=1"
 minor="http://"
 gui="http://"
 kodi="21.1"
