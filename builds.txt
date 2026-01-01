@@ -13,7 +13,7 @@ info="http://"
 description="A Christmas build to lift your spirits."
 
 name="Alpha and Omega"
-version="2.0"
+version="2.1"
 url="https://www.dropbox.com/scl/fi/txvjciublfoxuhkn9ca63/christianbuild.zip?rlkey=aos9dzxuskis13shd0sw0h07z&st=4zmmapay&dl=1"
 minor="http://"
 gui="http://"
@@ -25,4 +25,5 @@ preview="http://"
 adult="no"
 info="http://"
 description="This Build is the first and last amen"
+
 
